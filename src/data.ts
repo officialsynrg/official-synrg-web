@@ -12,7 +12,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Smooth tone / Controlled power',
     quote: 'Art is the collision of silence and noise. We are simply the medium.',
     aesthetic: 'Draped black silhouettes, raw leather, brushed chrome, industrial minimalist.',
-    imageUrl: 'assets/images/members/ren.png'
+    imageUrl: '/images/members/ren.png'
   },
   {
     id: 'lysander',
@@ -26,7 +26,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Gravelly baritone flow / High-register belt',
     quote: 'Movement is the first language. Rhythm is the second. Everything else is translation.',
     aesthetic: 'Deconstructed tailoring, copper accent jewelry, raw linen, earthy warm undertones.',
-    imageUrl: 'assets/images/members/lysander.png'
+    imageUrl: '/images/members/lysander.png'
   },
   {
     id: 'zee',
@@ -40,7 +40,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Expressive belt / Signature R&B runs',
     quote: 'Sound is space made audible. If you control the frequencies, you control the mood.',
     aesthetic: 'Sleek dark tech-wear, silver micro-accents, matte black, architectural structure.',
-    imageUrl: 'assets/images/members/zee.png'
+    imageUrl: '/images/members/zee.png'
   }
 ];
 
@@ -51,8 +51,8 @@ export const SONGS: Song[] = [
     type: 'Cover',
     releaseDate: 'June 08, 2026',
     description: 'Our debut improvised cover of "X", released for Rebelle\'s Cover Event: The Rebels. With raw, emotional, and deconstructed dual vocals by Ren Adanu, Lysander Lee, and Zee.',
-    coverUrl: 'assets/images/songs/synrg-x-cover.jpg',
-    audioUrl: 'assets/audio/synrg-x-cover.mp3',
+    coverUrl: '/images/songs/synrg-x-cover.jpg',
+    audioUrl: '/audio/synrg-x-cover.mp3',
     duration: '3:47',
     lyrics: `INTRO
 [REN ADANU]
@@ -361,35 +361,35 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'cert-1',
     title: 'The Rebels - Top 1 Male at REBELLE\'s 1ST Anniversary Event 2026',
     category: 'Competition',
-    imageUrl: 'assets/images/gallery/synrg-top-1.jpg',
+    imageUrl: '/images/gallery/synrg-top-1.jpg',
     aspectRatio: 'aspect-[4/3]'
   },
   {
     id: 'cert-2',
     title: 'The Rebels - Audience Choice Award at REBELLE\'s 1ST Anniversary Event 2026',
     category: 'Competition',
-    imageUrl: 'assets/images/gallery/synrg-audience-choice.jpg',
+    imageUrl: '/images/gallery/synrg-audience-choice.jpg',
     aspectRatio: 'aspect-[4/3]'
   },
   {
     id: 'cert-3',
     title: 'The Rebels - Best Audio Award at REBELLE\'s 1ST Anniversary Event 2026',
     category: 'Competition',
-    imageUrl: 'assets/images/gallery/synrg-best-audio.jpg',
+    imageUrl: '/images/gallery/synrg-best-audio.jpg',
     aspectRatio: 'aspect-[4/3]'
   },
   {
     id: 'cert-4',
     title: 'The Rebels - Outstanding Performance Award at REBELLE\'s 1ST Anniversary Event 2026',
     category: 'Competition',
-    imageUrl: 'assets/images/gallery/synrg-outstanding.jpg',
+    imageUrl: '/images/gallery/synrg-outstanding.jpg',
     aspectRatio: 'aspect-[4/3]'
   },
   {
     id: 'cert-5',
     title: 'The Rebels - Creative Rebel Award at REBELLE\'s 1ST Anniversary Event 2026',
     category: 'Competition',
-    imageUrl: 'assets/images/gallery/synrg-creative-rebel.jpg',
+    imageUrl: '/images/gallery/synrg-creative-rebel.jpg',
     aspectRatio: 'aspect-[4/3]'
   }
 ];
