@@ -12,7 +12,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Smooth tone / Controlled power',
     quote: 'Art is the collision of silence and noise. We are simply the medium.',
     aesthetic: 'Draped black silhouettes, raw leather, brushed chrome, industrial minimalist.',
-    imageUrl: '/images/members/ren.png'
+    imageUrl: '/images/members/REN.png'
   },
   {
     id: 'lysander',
@@ -26,7 +26,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Gravelly baritone flow / High-register belt',
     quote: 'Movement is the first language. Rhythm is the second. Everything else is translation.',
     aesthetic: 'Deconstructed tailoring, copper accent jewelry, raw linen, earthy warm undertones.',
-    imageUrl: '/images/members/lysander.png'
+    imageUrl: '/images/members/LYSANDER.png'
   },
   {
     id: 'zee',
@@ -40,7 +40,7 @@ export const MEMBERS: Member[] = [
     voiceType: 'Expressive belt / Signature R&B runs',
     quote: 'Sound is space made audible. If you control the frequencies, you control the mood.',
     aesthetic: 'Sleek dark tech-wear, silver micro-accents, matte black, architectural structure.',
-    imageUrl: '/images/members/zee.png'
+    imageUrl: '/images/members/ZEE.png'
   }
 ];
 
