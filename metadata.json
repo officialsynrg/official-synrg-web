@@ -1,0 +1,6 @@
+{
+  "name": "SYNRG",
+  "description": "The official high-fidelity portfolio website of avant-garde audio collective SYNRG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
