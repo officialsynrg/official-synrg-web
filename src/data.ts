@@ -5,7 +5,7 @@ export const MEMBERS: Member[] = [
     id: 'ren',
     name: 'Ren Adanu',
     role: 'Leader & Main Producer',
-    bio: 'The mind behind its signature sound, Ren is a classically-trained vocalist and multi-instrumentalist. He is the primary producer and arranger for SYNRG\'s.',
+    bio: 'As the driving force behind the group’s distinctive sound, Ren is a self-taught vocalist, songwriter, and producer. He serves as the leader, main producer, and music arranger for SYNRG.',
     personality: ['Introspective', 'Perfectionist', 'Enigmatic', 'Visionary'],
     birthdate: 'May 21',
     mbti: 'INFP',
